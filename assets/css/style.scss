@@ -1,0 +1,10 @@
+---
+---
+
+@import"{{ site.theme }}";
+
+.language-plaintext pre{
+border-style: dotted;
+border: 0px;
+background: #151515 url("../images/bkg.png") 0 0
+}
